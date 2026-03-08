@@ -6,7 +6,6 @@ Built with **HTML5**, **CSS3**, and **Bootstrap 5** to showcase clean design, re
 ##  Features
 - Fully responsive design (mobile, tablet, desktop)
 - Bootstrap 5 grid system, components (navbar, carousel, cards, buttons, forms)
-- Hero section with call-to-action (CTA) buttons
 - About BRAC section (mission, impact stats)
 - Programs/Services sections with cards/grid
 - Footer with links, social icons, contact info
@@ -17,6 +16,6 @@ Built with **HTML5**, **CSS3**, and **Bootstrap 5** to showcase clean design, re
 - HTML5
 - CSS3 (Custom styles + Flexbox/Grid)
 - Bootstrap 5 (CDN or local)
-- Font Awesome / Bootstrap Icons for icons
+- Font Awesome , Bootstrap Icons for icons
 
 ## Demo / Live Preview
