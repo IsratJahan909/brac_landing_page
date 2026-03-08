@@ -9,7 +9,6 @@ Built with **HTML5**, **CSS3**, and **Bootstrap 5** to showcase clean design, re
 - Hero section with call-to-action (CTA) buttons
 - About BRAC section (mission, impact stats)
 - Programs/Services sections with cards/grid
-- Impact/Statistics counters (animated if you add JS)
 - Footer with links, social icons, contact info
 - Smooth scrolling and hover effects
 - Clean, professional color scheme (inspired by BRAC's green & white)
@@ -18,7 +17,6 @@ Built with **HTML5**, **CSS3**, and **Bootstrap 5** to showcase clean design, re
 - HTML5
 - CSS3 (Custom styles + Flexbox/Grid)
 - Bootstrap 5 (CDN or local)
-- Google Fonts (optional, e.g., Roboto or Poppins)
 - Font Awesome / Bootstrap Icons for icons
 
 ## Demo / Live Preview
